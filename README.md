@@ -7,7 +7,7 @@
 🌱 I'm a passionate web developer with a focus on mobile applications. I believe in crafting projects tailored for mobile devices, recognizing the vast user base in this domain.  
 🔭 I always enjoy diving into hands-on projects, particularly when I get to tinker with platforms like Raspberry Pi.  
 🏢 I've worked with companies like Solera Inc, Inoweiser, and Virtual Blue.  
-🌍 I'm based in Malveira, Mafra, approximately 30 minutes outside central Lisbon.
+🌍 I'm based in Lisbon.
 
 ## Tech Stack 🛠
 
